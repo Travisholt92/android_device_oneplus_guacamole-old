@@ -28,6 +28,9 @@ PRODUCT_AAPT_CONFIG := xxxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
 PRODUCT_CHARACTERISTICS := nosdcard
 
+# Official
+KANGOS_BUILDTYPE := OFFICIAL
+
 # Boot animation
 scr_resolution := 1440
 TARGET_SCREEN_HEIGHT := 3120
